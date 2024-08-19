@@ -18,7 +18,7 @@ This is a command line based app that allows users to create and interact with d
 To use the app:
 -Clone the repository into your machine using the link https://github.com/Saadia9/Vehicle-app
 -Install the required npm packages using the command "npm i"
--Walk through video 
+-Walk through video https://drive.google.com/file/d/1vtbovw8umgdGyTpFrQf6r-wynvSc-4z9/view?usp=sharing
 
 ## Usage
 To start the app run "npm start"
